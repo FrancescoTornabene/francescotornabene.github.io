@@ -1,0 +1,6 @@
+---
+---
+
+Personal notes (that might be helpful to some):
+
+- [Here](files/div.pdf)'s a short note on how to apply the divergence theorem on Lorentzian manifold.

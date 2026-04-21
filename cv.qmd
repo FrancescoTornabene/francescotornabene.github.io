@@ -1,0 +1,8 @@
+---
+---
+
+- Master's thesis (University of Pavia): "Metrics on triangulated categories and applications to derived categories of schemes".
+
+- Bachelor's thesis (University of Pavia): "The fundamental theorem of calculus in Henstock-Kurzweil's theory of integration".
+
+[Here's my CV](files/CV.pdf).
