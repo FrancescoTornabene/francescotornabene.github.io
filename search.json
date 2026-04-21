@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Francesco Tornabene",
+    "section": "",
+    "text": "Master’s thesis (University of Pavia): “Metrics on triangulated categories and applications to derived categories of schemes”.\nBachelor’s thesis (University of Pavia): “The fundamental theorem of calculus in Henstock-Kurzweil’s theory of integration”.\n\nHere’s my CV."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francesco Tornabene",
+    "section": "",
+    "text": "Welcome to my site!\nI’m Francesco, a PhD student at Gran Sasso Science Institute in L’Aquila.\nI’m working on black hole stability, specifically on asymptotically AdS Lorentzian manifolds.\nMore broadly, my current and past research interests include PDEs on curved spacetimes, Riemannian geometry, and optimal transport."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Francesco Tornabene",
+    "section": "",
+    "text": "Tornabene, F., Veneroni, M., & Savaré, G.\nGeneralized Wasserstein Barycenters.\nApplied Mathematics & Optimization, 92, 68 (2025).\nhttps://doi.org/10.1007/s00245-025-10351-6"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Francesco Tornabene",
+    "section": "",
+    "text": "Tornabene, F., Veneroni, M., & Savaré, G.\nGeneralized Wasserstein Barycenters.\nApplied Mathematics & Optimization, 92, 68 (2025).\nhttps://doi.org/10.1007/s00245-025-10351-6"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Francesco Tornabene",
+    "section": "",
+    "text": "Personal notes (that might be helpful to some):\n\nHere’s a short note on how to apply the divergence theorem on Lorentzian manifold."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
